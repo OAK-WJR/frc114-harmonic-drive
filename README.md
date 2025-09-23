@@ -1,7 +1,6 @@
 # frc114-harmonic-drive
 
 [![License: CERN-OHL-S-2.0](https://img.shields.io/badge/License-CERN--OHL--S--2.0-blue.svg)](./LICENSE)
-[![Docs](http://34.61.86.245/docs/assets/docs-badge.svg)](http://34.61.86.245/docs/) <!-- optional if you later host an svg -->
 [**🔎 Search models**](http://34.61.86.245/docs/search.html) · [**📘 Docs**](http://34.61.86.245/docs/) · [中文 / Chinese](./README.zh-CN.md)
 
 > Built for FRC robotics: a modular library of **harmonic reducers**, motor-board **adapters**, and **universal joints** (vertical/parallel).  
@@ -85,4 +84,5 @@ Reference files → `docs/design_reference/`.
 
 © 2025 Jiarui Wu — Licensed under **CERN‑OHL‑S v2.0** (see `LICENSE`).  
 Vendor “reference-only” models are **not** redistributed; use vendor links locally.
+
 
