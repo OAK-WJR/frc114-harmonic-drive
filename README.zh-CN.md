@@ -72,7 +72,7 @@ LICENSE
 
 ## 贡献
 
-1. Onshape 建模 → 导出 **`.step`**（mm，Z↑）。  
+1. 导出 **`.step`**（mm，Z↑）。  
 2. 按命名与目录放置。  
 3. 与同型号对侧件完成 AJI 互配验证。  
 4. （可选）更新 `config/variants.csv`。  
